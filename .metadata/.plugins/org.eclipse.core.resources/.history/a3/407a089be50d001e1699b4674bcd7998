@@ -1,0 +1,20 @@
+package protice3;
+
+  class Animal12{
+	public void Animal() {
+		System.out.println("동물이다");
+	}
+}
+  class Rion extends Animal12() {
+	  public void rion() {
+		  System.out.println();
+	  }
+  }
+
+public class Test12 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

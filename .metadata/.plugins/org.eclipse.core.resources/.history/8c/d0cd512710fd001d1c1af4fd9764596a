@@ -1,0 +1,13 @@
+package protice;
+
+public class protice_test11 {
+
+	public static void main(String[] args) {
+		
+		String str = "abcd";
+		char ch2 = str.charAt(0);
+		String ss = (char)(ch=32)+"";
+		System.out.println(ss);
+	}
+
+}

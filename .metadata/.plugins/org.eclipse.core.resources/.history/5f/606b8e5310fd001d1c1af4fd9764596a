@@ -1,0 +1,15 @@
+package protice;
+
+public class protice_test11 {
+
+	public static void main(String[] args) {
+		
+		String str = "abcd";
+		char ch = str.charAt(1);
+		String ss = (char)(ch-32)+"";
+		System.out.println(ss);
+		str = str.toLowerCase;
+		System.out.println(""+str);
+	}
+
+}

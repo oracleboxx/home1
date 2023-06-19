@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="protice.AbcClass"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="protice.protice_test15"/>
+    <fullyQualifiedTypeName name="protice.protice_test16"/>
+    <fullyQualifiedTypeName name="protice2.gettersetter"/>
+    <fullyQualifiedTypeName name="protice2.setget"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="protice2.setget2"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="protice2.Test"/>
+    <fullyQualifiedTypeName name="protice2.OverRoding"/>
+    <fullyQualifiedTypeName name="protice2.MethodTest03"/>
+    <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
+    <fullyQualifiedTypeName name="protice3.Method"/>
+    <fullyQualifiedTypeName name="protice3.Test04"/>
+    <fullyQualifiedTypeName name="protice3.Son"/>
+    <fullyQualifiedTypeName name="protice3.Par"/>
+    <fullyQualifiedTypeName name="protice3.Point3D"/>
+    <fullyQualifiedTypeName name="protice3.Child"/>
+    <fullyQualifiedTypeName name="protice3.Parent2"/>
+    <fullyQualifiedTypeName name="protice3.Child2"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="protice3.Employee"/>
+    <fullyQualifiedTypeName name="protice3.FirstController"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,23 @@
+package protice3;
+
+import java.util.Scanner;
+
+public class Test14 {
+
+	public static void main(String[] args) {
+		char c = ' ' ;
+		int cnt_a =0;
+		boolean num = (c == 'a');
+		String number = "null";
+		Scanner scan = new Scanner(System.in);
+			 number = scan.next();
+			
+		while(true) {
+			if(number.equals(num)) {
+				cnt_a++;
+				System.out.println(cnt_a);
+			}
+		}
+	}
+
+}

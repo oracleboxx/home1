@@ -1,0 +1,33 @@
+package protice3;
+
+abstract class Controller{
+	public  void init() {
+		System.out.println("초기화 하는 코드");
+	}
+	public void run() {
+		System.out.println("실행 시키는 코드");
+	}
+	public void finish() {
+		System.out.println("마무리 시키는 코드");
+	}
+	public void every() {
+		this.init();
+		this.run();
+		this.finish();
+	}
+}
+  class FirstController extends Controller{
+	 public void run() {
+		 System.out.println("별도로 동작하는 코드");
+	  }
+  }
+
+ public class Test12 {
+
+	public static void main(String[] args) {
+		FirstController f1 = new FirstController();
+		Controller c1 = (Controller)f1;
+				c1.every();
+	}
+
+}
